@@ -1,0 +1,8 @@
+{
+  "id": "IconStudio",
+  "name": "Icon Studio",
+  "version": "1.0.0",
+  "description": "Create and edit game icons. Disabled by default.",
+  "minimum_playlite_version": "0.2.0",
+  "repository": "swolfgang-dev/playlite-plugin-icon-studio-releases"
+}
